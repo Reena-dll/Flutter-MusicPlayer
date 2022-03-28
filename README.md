@@ -11,6 +11,7 @@ Ardından aşağı tarafta Müzik açma, durdurma ve kapatma butonları mevcut. 
 Sağ üst tarafta ise info butonu mevcut. İnfo butonuna tıkladığımızda Alert Dialog açılıyor ve bize şarkıcının adı ve şarkının ismini söylüyor.
 En altta ise görsel açıdan zenginlik kazanmasından dolayı spotify’da olan işaretleri koydum. Başlat durdur ve kapat butonlarının altında ise Slider mevcut.
 Bu slider bizim gidişat çubuğumuz gibi düşünülebilir. Müziği başlattıktan sonra slider’dan bir yere tıkladığımızda aynı youtube’da olduğu gibi müzik o kısma ilerliyor.
+Bütün kodların açıklama satırları bulunmaktadır ****
 
 Uygulamanın tam hali için;
 
