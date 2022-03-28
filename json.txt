@@ -1,0 +1,101 @@
+[
+  {
+    sarkiID: 1,
+    sariAd: "Sen Olsan Bari",
+    sarkici: "Aleyna Tilki",
+    sarkiciFoto: "https://i.hizliresim.com/kro1Q5.jpg",
+    sarkiFoto:"https://i.hizliresim.com/hrYVJv.jpg"
+  
+  },
+ {
+    sarkiID: 2,
+    sariAd: "Cevapsız Çınlama",
+    sarkici: "Aleyna Tilki",
+    sarkiciFoto: "https://i.hizliresim.com/kro1Q5.jpg",
+    sarkiFoto:"https://i.hizliresim.com/kbiXt8.jpg"
+  
+  },
+  {
+    sarkiID: 3,
+    sariAd: "Mekanın Sahibi",
+    sarkici: "Norm Ender",
+    sarkiciFoto: "https://i.hizliresim.com/ATPSft.jpg",
+    sarkiFoto:"https://i.hizliresim.com/C7Et09.jpg"
+  
+  },
+  {
+    sarkiID: 4,
+    sariAd: "Konu Kilit",
+    sarkici: "Norm Ender",
+    sarkiciFoto: "https://i.hizliresim.com/ATPSft.jpg",
+    sarkiFoto:"https://i.hizliresim.com/lJu5Rx.png"
+  
+  },
+ {
+    sarkiID: 5,
+    sariAd: "Papatya",
+    sarkici: "Çağan Şengül",
+    sarkiciFoto: "https://i.hizliresim.com/Yaohhu.jpg",
+    sarkiFoto:"https://i.hizliresim.com/bMPW6f.jpg"
+  
+  },
+   {
+    sarkiID: 6,
+    sariAd: "Kırlangıç",
+    sarkici: "Çağan Şengül",
+    sarkiciFoto: "https://i.hizliresim.com/Yaohhu.jpg",
+    sarkiFoto:"https://i.hizliresim.com/6QHxPp.png"
+  
+  },
+  {
+    sarkiID: 7,
+    sariAd: "Gel",
+    sarkici: "Mabel Matiz",
+    sarkiciFoto: "https://i.hizliresim.com/Co4YzD.jpg",
+    sarkiFoto:"https://i.hizliresim.com/4yycx0.jpg"
+  
+  },
+ {
+    sarkiID: 8,
+    sariAd: "Söylese O Ben Söyleyemem",
+    sarkici: "Mabel Matiz",
+    sarkiciFoto: "https://i.hizliresim.com/Co4YzD.jpg",
+    sarkiFoto:"https://i.hizliresim.com/9hW63X.jpg"
+  
+  },
+   {
+    sarkiID: 9,
+    sariAd: "Yerli Plaka",
+    sarkici: "Ceza",
+    sarkiciFoto: "https://i.hizliresim.com/9efxhB.png",
+    sarkiFoto:"https://i.hizliresim.com/tRYdWW.jpg"
+  
+  },
+  {
+    sarkiID: 10,
+    sariAd: "Suspus",
+    sarkici: "Ceza",
+    sarkiciFoto: "https://i.hizliresim.com/9efxhB.png",
+    sarkiFoto:"https://i.hizliresim.com/ebXTrj.jpg"
+  
+  },
+  {
+    sarkiID: 11,
+    sariAd: "Galiba",
+    sarkici: "Sagopa Kajmer",
+    sarkiciFoto: "https://i.hizliresim.com/JEdCzN.jpg",
+    sarkiFoto:"https://i.hizliresim.com/GA2HKy.jpg"
+  
+  },
+  {
+    sarkiID: 12,
+    sariAd: "Neyim Var Ki",
+    sarkici: "Sagopa Kajmer",
+    sarkiciFoto: "https://i.hizliresim.com/JEdCzN.jpg",
+    sarkiFoto:"https://i.hizliresim.com/NOBkqf.jpg"
+  
+  }
+  
+  
+  
+]
